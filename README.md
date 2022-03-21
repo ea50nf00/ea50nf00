@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EasonFoo
-- 👀 I’m interested in Data Science & AI
+- 👀 I’m interested in Dynamics & Vibrations, Data Science & AI
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 Please reach me via fuzhiyi1205@gmail.com
